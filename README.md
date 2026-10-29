@@ -16,9 +16,9 @@
 
 ---
 
-#### Featured Projects
+### Featured Projects
 
-_Coming soon_
+[Cyber Segurança](https://dev-pedrohc.github.io/Cyber_seguranca)
 
 ---
 
